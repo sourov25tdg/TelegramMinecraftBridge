@@ -1,0 +1,9 @@
+bot-token: "PASTE_NEW_BOTFATHER_TOKEN_HERE"
+
+admin-id: 8751002531
+
+poll-interval-seconds: 2
+
+forward-minecraft-chat: true
+
+enable-say: true
